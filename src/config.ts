@@ -33,6 +33,7 @@ export const SOCIALS: SocialObjects = [
     href: "https://ruby.social/@aergonaut",
     linkTitle: "Mastodon",
     active: true,
+    rel: "me",
   },
   {
     name: "LinkedIn",

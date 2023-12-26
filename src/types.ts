@@ -13,6 +13,7 @@ export type SocialObjects = {
   href: string;
   active: boolean;
   linkTitle: string;
+  rel?: string;
 }[];
 
 export type SocialIcons = {
