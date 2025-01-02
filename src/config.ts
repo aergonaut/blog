@@ -29,6 +29,12 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "Bluesky",
+    href: "https://bsky.app/profile/aergonaut.com",
+    linkTitle: "Bluesky",
+    active: true,
+  },
+  {
     name: "Mastodon",
     href: "https://ruby.social/@aergonaut",
     linkTitle: "Mastodon",

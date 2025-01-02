@@ -27,11 +27,11 @@ From [nownownow.com](https://nownownow.com/about)
 
 ## 📺 Watching
 
-- _Slow Horses_ on Apple TV+
-- _Jujutsu Kaisen_ on Crunchyroll
-- _Black Knight_ on Netflix
+- _Severence_ on Apple TV+
+- _Blue Exorcist_ on Crunchyroll
+- _Squid Game_ on Netflix
 
 ## 🎮 Playing
 
-- _Against the Storm_ on Steam
-- _COCOON_ on Switch
+- _Hades II_ on Steam
+- _Balatron_ on iOS
