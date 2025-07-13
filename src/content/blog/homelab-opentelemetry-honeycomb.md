@@ -1,10 +1,11 @@
 ---
-draft: false
+draft: true
 author: aergonaut
 pubDatetime: 2025-07-04
 title: O11y in the Homelab
 description: Observing NixOS with Honeycomb and OpenTelemetry
 slug: homelab-opentelemetry-honeycomb
+featured: true
 tags:
   - homelab
   - nixos
